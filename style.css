@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(228, 228, 228);
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: rgb(245, 243, 243);
+    font-size: 3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px 0px ;
+    margin-top: 30px;
+    text-shadow: 1px 1px 1px  red;
+}
+figure{
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Kaushan Script', cursive;
+    box-sizing: border-box;
+}
+figure:hover{
+    display: inline-block;
+    background-color:rgb(243, 243, 243);
+    padding: 10px;
+    box-sizing: border-box;
+    color: tomato;
+
+}
